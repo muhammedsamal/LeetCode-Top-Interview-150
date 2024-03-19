@@ -40,3 +40,17 @@ Example 3:
 **Explanation**: The arrays we are merging are [] and [1].
 The result of the merge is [1].
 Note that because m = 0, there are no elements in nums1. The 0 is only there to ensure the merge result can fit in nums1.
+
+# Solution
+
+> Understand the problem
+1. Two sorted arrays
+2. we have to modify the first array
+3. length of the first array is **already** `m+n`
+
+<img src="assets/image.png" alt="img"/>
+
+> to code
+
+- Compare the max element (last element) of both arrays and fill the first array with the highest of both.
+- Use 3 pointers i, j, k for iteration and comparison of two arrays.
