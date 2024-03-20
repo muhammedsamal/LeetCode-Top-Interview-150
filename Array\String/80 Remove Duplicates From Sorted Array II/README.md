@@ -47,6 +47,7 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 1. return k
 
 > Drawings
+
 <img src="assets/image.png" alt="img"/>
 
 > to code
