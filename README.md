@@ -9,3 +9,5 @@
 |<a href="https://github.com/muhammedsamal/LeetCode-Top-Interview-150/tree/main/Array%5CString/169%20Majority%20Element">169 Majority Element </a>         |*`Array`, `Hashtable`, `Divid and Conquer`, `Sorting`*            |           |
 |<a href="Ahttps://github.com/muhammedsamal/LeetCode-Top-Interview-150/tree/main/Array%5CString/189%20Rotate%20Array">189 Rotate Array </a>         |*`Array`, `Two Pointers`, `Math`*            |           |
 |<a href="https://github.com/muhammedsamal/LeetCode-Top-Interview-150/tree/main/Array%5CString/121%20Best%20Time%20to%20Buy%20and%20Sell%20Stock">121 Best Time to Buy and Sell Stock </a>         |*`Array`, `Dynamic Programming`*            |           |
+|<a href="https://github.com/muhammedsamal/LeetCode-Top-Interview-150/tree/main/Array%5CString/55%20Jump%20Game">55 Jump Game </a>         |*`Array`, `Dynamic Programming, Greedy`*            |           |
+|<a href="https://github.com/muhammedsamal/LeetCode-Top-Interview-150/tree/main/Array%5CString/45%20Jump%20Game%20II">45 Jump Game II </a>         |*`Array`, `Dynamic Programming, Greedy`*            |           |
