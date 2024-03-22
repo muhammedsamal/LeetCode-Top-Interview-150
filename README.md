@@ -19,3 +19,5 @@
 |<a href="https://github.com/muhammedsamal/LeetCode-Top-Interview-150/tree/main/Array%5CString/12%20Integer%20to%20Roman">12 Integer to Roman </a>         |*`Hash Table`, `Math`, `String`*            |           |
 |<a href="https://github.com/muhammedsamal/LeetCode-Top-Interview-150/tree/main/Array%5CString/58%20Length%20of%20the%20Last%20Word">58 Length of Last Word </a>         |*`String`*            |           |
 |<a href="https://github.com/muhammedsamal/LeetCode-Top-Interview-150/tree/main/Array%5CString/14%20Longest%20Common%20Prefix">14 Longest Common Prefix </a>         |*`String`, `Trie`*            |           |
+|<a href="https://github.com/muhammedsamal/LeetCode-Top-Interview-150/tree/main/Array%5CString/151%20Reverse%20Words%20in%20a%20String">151 Reverse Words in a String</a>         |*`String`, `Two Pointers`*            |           |
+|<a href="https://github.com/muhammedsamal/LeetCode-Top-Interview-150/tree/main/Array%5CString/6%20Zig-Zag%20Conversion">6 Zig-Zag Conversion</a>         |*`String`*            |           |
