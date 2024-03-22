@@ -1,8 +1,9 @@
-# <a href="https://leetcode.com/problems/roman-to-integer/?envType=study-plan-v2&envId=top-interview-150">13 Roman to Integer</a>
+# <a href="https://leetcode.com/problems/integer-to-roman/?envType=study-plan-v2&envId=top-interview-150">12 Integer to Roman</a>
 
 ### Description
 
 > Tags: *Hashtable, Math, String*
+
 
 Roman numerals are represented by seven different symbols: `I`, `V`, `X`, `L`, `C`, `D` and `M`.
 
@@ -22,37 +23,38 @@ Roman numerals are usually written largest to smallest from left to right. Howev
 - `X` can be placed before `L` (50) and `C` (100) to make 40 and 90. 
 - `C` can be placed before `D` (500) and `M` (1000) to make 400 and 900.
 
-Given a roman numeral, convert it to an integer.
+Given an integer, convert it to a roman numeral.
 
  
-
 Example 1:
 ```
-Input: s = "III"
-Output: 3
-Explanation: III = 3.
+Input: num = 3
+Output: "III"
+Explanation: 3 is represented as 3 ones.
 ```
 Example 2:
 ```
-Input: s = "LVIII"
-Output: 58
-Explanation: L = 50, V= 5, III = 3.
+Input: num = 58
+Output: "LVIII"
+Explanation: L = 50, V = 5, III = 3.
 ```
 Example 3:
 ```
-Input: s = "MCMXCIV"
-Output: 1994
+Input: num = 1994
+Output: "MCMXCIV"
 Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 ```
+
 > Understand the problem
 
-1. conversion needs mapping so we need a hashmap to store the mapping values
+1. conversion needs mapping
+1. use a 2D list to store the symbols and values
 
 > Drawings
 
 <!-- <img src="" alt="img"/> -->
 
 > to code
-- create a hashmap of symbols and values
-- iterate through the string backwards
-- calculate the sum using the values from the hashmap, and diff between `curr` and `next` element.
+- create a 2D list of symbols and values
+- loop through the list in reverse 
+- check if the `num % val > 0` if so, add the symbol to res with its count
