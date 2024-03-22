@@ -21,3 +21,4 @@
 |<a href="https://github.com/muhammedsamal/LeetCode-Top-Interview-150/tree/main/Array%5CString/14%20Longest%20Common%20Prefix">14 Longest Common Prefix </a>         |*`String`, `Trie`*            |           |
 |<a href="https://github.com/muhammedsamal/LeetCode-Top-Interview-150/tree/main/Array%5CString/151%20Reverse%20Words%20in%20a%20String">151 Reverse Words in a String</a>         |*`String`, `Two Pointers`*            |           |
 |<a href="https://github.com/muhammedsamal/LeetCode-Top-Interview-150/tree/main/Array%5CString/6%20Zig-Zag%20Conversion">6 Zig-Zag Conversion</a>         |*`String`*            |           |
+|<a href="https://github.com/muhammedsamal/LeetCode-Top-Interview-150/tree/main/Array%5CString/28%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String">28. Find the Index of the First Occurrence in a String</a>         |*`String`, `Two Pointers`, `String Matching`*            |           |
