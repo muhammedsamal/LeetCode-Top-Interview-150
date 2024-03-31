@@ -25,3 +25,4 @@
 |<a href="https://github.com/muhammedsamal/LeetCode-Top-Interview-150/tree/main/Two%20Pointers/125%20Valid%20Palindrome">125 Valid Palindrome</a>         |*`Two Pointers`, `String`*            |           |
 |<a href="https://github.com/muhammedsamal/LeetCode-Top-Interview-150/tree/main/Two%20Pointers/392%20Is%20Subsequence">392 Is Subsequence</a>         |*`String`, `Two Pointers`, `Dynamic Programming`*            |           |
 |<a href="https://github.com/muhammedsamal/LeetCode-Top-Interview-150/tree/main/Two%20Pointers/67%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted">167 Two Sum II - Input Array Is Sorted</a>         |*`String`, `Two Pointers`, `Binary Search`*            |           |
+|<a href="https://github.com/muhammedsamal/LeetCode-Top-Interview-150/tree/main/Two%20Pointers/11%20Container%20With%20Most%20Water">11 Container With Most Water</a>         |*`Array`, `Two Pointers`, `Greedy`*            |           |
