@@ -41,7 +41,7 @@ Explanation: The sum of -1 and 0 is -1. Therefore index1 = 1, index2 = 2. We ret
 
 > Drawings
 
-<!-- <img src="" alt="img"/> -->
+![alt text](assets/image.png)
 
 > to code
 
