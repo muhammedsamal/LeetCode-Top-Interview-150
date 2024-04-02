@@ -12,7 +12,7 @@ Return the maximum amount of water a container can store.
 
 Notice that you may not slant the container.
 
-![container](assets/image.png)
+![container](assets/image-C.png)
 
 Example 1:
 ```
@@ -35,7 +35,9 @@ Output: 1
 
 > Drawings
 
-<!-- <img src="" alt="img"/> -->
+![alt text](assets/image.png)
+![alt text](assets/image-1.png)
+![alt text](assets/image-2.png)
 
 > to code
 
