@@ -52,7 +52,7 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 
 > Drawings
 
-<!-- <img src="" alt="img"/> -->
+![alt text](assets/image.png)
 
 > to code
 - create a 2D list of symbols and values
