@@ -38,7 +38,7 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 
 > Drawings
 
-<!-- <img src="" alt="img"/> -->
+![alt text](assets/image.png)
 
 > to code
 

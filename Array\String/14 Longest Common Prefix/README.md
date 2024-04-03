@@ -30,7 +30,7 @@ Explanation: There is no common prefix among the input strings.
 
 > Drawings
 
-<img src="" alt="img"/>
+<!-- <img src="" alt="img"/> -->
 
 > to code
 - sort the list
