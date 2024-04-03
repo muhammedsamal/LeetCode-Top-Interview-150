@@ -42,7 +42,8 @@ Explanation: The only possible triplet sums up to 0.
 
 > Drawings
 
-<!-- <img src="" alt="img"/> -->
+![alt text](assets/image.png)
+![alt text](assets/image-1.png)
 
 > to code
 
