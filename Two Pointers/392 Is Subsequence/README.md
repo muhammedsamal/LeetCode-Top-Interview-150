@@ -28,7 +28,7 @@ Output: false
 
 > Drawings
 
-<!-- <img src="" alt="img"/> -->
+![alt text](assets/image.png)
 
 > to code
 - use two pointers i, j to iterate through both arrays
