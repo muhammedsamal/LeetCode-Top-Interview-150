@@ -30,3 +30,7 @@
 |<a href="https://github.com/muhammedsamal/LeetCode-Top-Interview-150/tree/main/Two%20Pointers/15%203Sum">15 3Sum</a>         |*`Array`, `Two Pointers`, `Sorting`*            |           |
 |<a href="https://github.com/muhammedsamal/LeetCode-Top-Interview-150/tree/main/Sliding%20Window/209%20Minimum%20Size%20Subarray%20Sum">209 Minimum Size Subarray Sum</a>         |*`Array`, `Binary Search`, `Sliding Window`, `Prefix Sum`*            |           |
 |<a href="https://github.com/muhammedsamal/LeetCode-Top-Interview-150/tree/main/Sliding%20Window/3%20Longest%20Substring%20Without%20Repeating%20Characters">3 Longest Substring Without Repeating Characters</a>         |*`Hash Table`, `String`, `Sliding Window`*            |           |
+|<a href="https://github.com/muhammedsamal/LeetCode-Top-Interview-150/tree/main/Matrix/36%20Valid%20Sudoku">36 Valid Sudoku</a>         |*`Hash Table`, `Array`, `Matrix`*            |           |
+|<a href="https://github.com/muhammedsamal/LeetCode-Top-Interview-150/tree/main/Matrix/54%20Spiral%20Matrix">54 Spiral Matrix</a>         |*`Array`, `Matrix`, `Simulation`*            |           |
+|<a href="https://github.com/muhammedsamal/LeetCode-Top-Interview-150/tree/main/Matrix/48%20Rotate%20Image">48 Rotate Image</a>         |*`Array`, `Matrix`, `Math`*            |           |
+|<a href="https://github.com/muhammedsamal/LeetCode-Top-Interview-150/tree/main/Matrix/73%20Set%20Matrix%20Zeroes">73 Set Matrix Zeroes </a>         |*`Array`, `Matrix`, `Hash Table`*            |           |
