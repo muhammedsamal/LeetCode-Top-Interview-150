@@ -33,7 +33,7 @@ Output: true
 1. all occurence of char must be replaced with another char while perserving the order of chars.
 1. no tow chars may map to the same char
 1. a char may map to itself
-1. chars frequency matters
+1. chars frequency matters, also the mapping matters
 1. if the frequency count is same then -> isomorphic
 1. order of chars matters
 
